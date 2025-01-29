@@ -1,0 +1,12 @@
+h2 {
+  font-family: Montserrat;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 33px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #0d6efd;
+  border-bottom: 1px solid #0d6efd;
+  text-transform: uppercase;
+}
